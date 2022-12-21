@@ -1,0 +1,58 @@
+.nav-bar{
+    background-color: black;
+    color: white;
+    height: 30px;
+    padding: 3px;
+}
+.nav{
+    position: absolute;
+    display: flex;
+    padding: 3px;
+}
+.nav-items{
+   margin-left: 60%;
+   list-style: none;
+    justify-content: space-between;
+    position: relative;
+    display: flex;
+    padding: 5px;
+}
+.p1{
+    width: 50%;
+}
+.h1{
+    width: 50%;
+}
+.b{
+    width: 50%;
+}
+.i{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    margin-left: 50%;
+    padding: 15px;
+    margin-top: 10px;
+}
+.g{
+    display: grid;
+    margin-top: 80px;
+    padding: 50px;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 400px 400px 400px;
+    justify-content: space-between;
+    position: relative;
+}
+.isize{
+    margin-top: 10px;
+    width: 500px;
+    height: 400px;
+}
+.h2{
+    margin-top: 400px;
+}
+.size{
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+}
